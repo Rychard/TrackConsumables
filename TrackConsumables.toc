@@ -1,0 +1,12 @@
+## Interface: 20503
+## Title: Track Consumables
+## Version: 0.1-alpha
+## Author: Rychard
+## Notes: Announces raid members with missing (or expiring) consumables during a ready check.
+## LoadOnDemand: 0
+## DefaultState: Enabled
+## SavedVariables: TrackConsumables
+
+data.lua
+events.lua
+main.lua
